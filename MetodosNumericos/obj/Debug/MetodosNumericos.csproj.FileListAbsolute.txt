@@ -1,0 +1,70 @@
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.exe.config
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.exe
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.pdb
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Form1.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Properties.Resources.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.csproj.GenerateResource.cache
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.csproj.CoreCompileInputs.cache
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.exe
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.pdb
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.csproj.CopyComplete
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Aproximacion_Raises.VistaReglaFalsa.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Complementos.Calculo_De_Raices.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.VitasBiseccion.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Aproximacion_Raises.VistaSecante.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Aproximacion_Raises.VistaNewtonRapson.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Complementos.Grafica.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Matrices.MatrizGaussJordan.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Matrices.SolucionMatrizGaussJordan.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Ecuaciones.Jacobi.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Ecuaciones.Gauss_Seidel.resources
+C:\Users\nesto\source\repos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.exe.config
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.exe
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.pdb
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Aproximacion_Raises.VistaNewtonRapson.resources
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Aproximacion_Raises.VistaReglaFalsa.resources
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Aproximacion_Raises.VistaSecante.resources
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Complementos.Calculo_De_Raices.resources
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Complementos.Grafica.resources
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Ecuaciones.Gauss_Seidel.resources
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Ecuaciones.Jacobi.resources
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Matrices.MatrizGaussJordan.resources
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Matrices.SolucionMatrizGaussJordan.resources
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.VitasBiseccion.resources
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.exe
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.pdb
+C:\Users\Usuario\Desktop\Mynor Guido\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Dashboard.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.exe.config
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.exe
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.pdb
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.csproj.AssemblyReference.cache
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Aproximacion_Raises.VistaNewtonRapson.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Aproximacion_Raises.VistaReglaFalsa.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Aproximacion_Raises.VistaSecante.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Complementos.Calculo_De_Raices.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Complementos.Grafica.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Ecuaciones.Gauss_Seidel.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Ecuaciones.Jacobi.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Dashboard.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Matrices.MatrizGaussJordan.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Matrices.SolucionMatrizGaussJordan.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.Properties.Resources.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.VitasBiseccion.resources
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.csproj.GenerateResource.cache
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.csproj.CoreCompileInputs.cache
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.csproj.CopyComplete
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.exe
+C:\Users\nesto\Documents\Escritoriio\Base de datos\MetodosNumericos\MetodosNumericos\obj\Debug\MetodosNumericos.pdb

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF8F2ADE-9DDD-474A-8225-67DB8D851CC8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MetodosNumericos</RootNamespace>
+    <AssemblyName>MetodosNumericos</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Linq.Dynamic.Core, Version=1.2.9.0, Culture=neutral, PublicKeyToken=0f07ec44de6ac832, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Linq.Dynamic.Core.1.2.9\lib\net46\System.Linq.Dynamic.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aproximacion_Raises\VistaNewtonRapson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aproximacion_Raises\VistaNewtonRapson.Designer.cs">
+      <DependentUpon>VistaNewtonRapson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aproximacion_Raises\VistaReglaFalsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aproximacion_Raises\VistaReglaFalsa.Designer.cs">
+      <DependentUpon>VistaReglaFalsa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aproximacion_Raises\VistaSecante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aproximacion_Raises\VistaSecante.Designer.cs">
+      <DependentUpon>VistaSecante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculos\StringToFormula.cs" />
+    <Compile Include="Complementos\Calculo_De_Raices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Complementos\Calculo_De_Raices.Designer.cs">
+      <DependentUpon>Calculo_De_Raices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Complementos\Grafica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Complementos\Grafica.Designer.cs">
+      <DependentUpon>Grafica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ecuaciones\Gauss-Seidel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ecuaciones\Gauss-Seidel.Designer.cs">
+      <DependentUpon>Gauss-Seidel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ecuaciones\Jacobi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ecuaciones\Jacobi.Designer.cs">
+      <DependentUpon>Jacobi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matrices\MatrizGaussJordan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matrices\MatrizGaussJordan.Designer.cs">
+      <DependentUpon>MatrizGaussJordan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matrices\SolucionMatrizGaussJordan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matrices\SolucionMatrizGaussJordan.Designer.cs">
+      <DependentUpon>SolucionMatrizGaussJordan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Unidad II\Biseccion.cs" />
+    <Compile Include="Unidad II\JacobiII.cs" />
+    <Compile Include="Unidad II\Newton_Rapson.cs" />
+    <Compile Include="Unidad II\ReglaFalsa.cs" />
+    <Compile Include="Unidad II\Secante.cs" />
+    <Compile Include="Unidad II\SJacobi.cs" />
+    <Compile Include="Unidad II\SSeidel.cs" />
+    <Compile Include="VitasBiseccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VitasBiseccion.Designer.cs">
+      <DependentUpon>VitasBiseccion.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Aproximacion_Raises\VistaNewtonRapson.resx">
+      <DependentUpon>VistaNewtonRapson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aproximacion_Raises\VistaReglaFalsa.resx">
+      <DependentUpon>VistaReglaFalsa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aproximacion_Raises\VistaSecante.resx">
+      <DependentUpon>VistaSecante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Complementos\Calculo_De_Raices.resx">
+      <DependentUpon>Calculo_De_Raices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Complementos\Grafica.resx">
+      <DependentUpon>Grafica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ecuaciones\Gauss-Seidel.resx">
+      <DependentUpon>Gauss-Seidel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ecuaciones\Jacobi.resx">
+      <DependentUpon>Jacobi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matrices\MatrizGaussJordan.resx">
+      <DependentUpon>MatrizGaussJordan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matrices\SolucionMatrizGaussJordan.resx">
+      <DependentUpon>SolucionMatrizGaussJordan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="VitasBiseccion.resx">
+      <DependentUpon>VitasBiseccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\uni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\biseccion.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
